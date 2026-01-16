@@ -1,1 +1,1 @@
-# git_test Hello World Goodbye World
+# git_test - Hello World and Goodbye World
